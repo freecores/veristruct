@@ -15,9 +15,9 @@
 # information.
 #
 #######################################################################
-# $Id: veristruct.pl,v 1.1 2008-10-10 21:03:35 julius Exp $
-# $URL: https://svn.itee.uq.edu.au/repo/rachaelsparc/projects/tools/veristruct/veristruct.pl $ 
-# $Rev: 969 $
+# $Id: veristruct.pl,v 1.2 2008-10-10 21:09:26 julius Exp $
+# $URL: $
+# $Rev: $
 # $Author: julius $
 ######################################################################
 #
